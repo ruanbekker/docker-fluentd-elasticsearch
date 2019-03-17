@@ -73,3 +73,4 @@ $ curl 'https://es.domain.com/fluentd-2019.03.15/_search?pretty&size=1'
 - [Fluentd with Docker](https://docs.fluentd.org/v0.12/articles/install-by-docker)
 - [Fluentd with S3/ES](https://www.fluentd.org/guides/recipes/elasticsearch-and-s3)
 - [Fluentd ES Plugin](https://github.com/uken/fluent-plugin-elasticsearch)
+- [Fluentd with Pushover Notifications](https://github.com/Berndinox/fluentd-pushover)
